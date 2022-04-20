@@ -28,7 +28,7 @@ for year in years:
         del df['Notes']
 
         if 'Start (ET)' in df.columns:
-            del df['Start (ET']
+            del df['Start (ET)']
         if 'Unnamed: 5' in df.columns:
             del df['Unnamed: 5']
         if 'Unnamed: 6' in df.columns:
@@ -62,7 +62,7 @@ for year in years:
         del df['Notes']
 
         if 'Start (ET)' in df.columns:
-            del df['Start (ET']
+            del df['Start (ET)']
         if 'Unnamed: 5' in df.columns:
             del df['Unnamed: 5']
         if 'Unnamed: 6' in df.columns:
@@ -96,7 +96,7 @@ for year in years:
         del df['Notes']
 
         if 'Start (ET)' in df.columns:
-            del df['Start (ET']
+            del df['Start (ET)']
         if 'Unnamed: 5' in df.columns:
             del df['Unnamed: 5']
         if 'Unnamed: 6' in df.columns:
@@ -130,7 +130,7 @@ for year in years:
         del df['Notes']
 
         if 'Start (ET)' in df.columns:
-            del df['Start (ET']
+            del df['Start (ET)']
         if 'Unnamed: 5' in df.columns:
             del df['Unnamed: 5']
         if 'Unnamed: 6' in df.columns:
@@ -164,7 +164,7 @@ for year in years:
         del df['Notes']
 
         if 'Start (ET)' in df.columns:
-            del df['Start (ET']
+            del df['Start (ET)']
         if 'Unnamed: 5' in df.columns:
             del df['Unnamed: 5']
         if 'Unnamed: 6' in df.columns:
@@ -198,7 +198,7 @@ for year in years:
         del df['Notes']
 
         if 'Start (ET)' in df.columns:
-            del df['Start (ET']
+            del df['Start (ET)']
         if 'Unnamed: 5' in df.columns:
             del df['Unnamed: 5']
         if 'Unnamed: 6' in df.columns:
@@ -232,7 +232,7 @@ for year in years:
         del df['Notes']
 
         if 'Start (ET)' in df.columns:
-            del df['Start (ET']
+            del df['Start (ET)']
         if 'Unnamed: 5' in df.columns:
             del df['Unnamed: 5']
         if 'Unnamed: 6' in df.columns:
